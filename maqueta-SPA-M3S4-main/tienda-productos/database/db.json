@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "username": "admin",
+      "password": "U2FsdGVkX1+MHAOf1MDxxXOaUr9zM3dNdGN3FJiD3GM=",
+      "nombre": "Administrador Principal",
+      "rol": "admin",
+      "telefono": "3001234567"
+    },
+    {
+      "id": "user2",
+      "username": "editor",
+      "password": "U2FsdGVkX18JYuBbbX8NV6tL0pxo+qph+wzI4jgN4Xs=",
+      "nombre": "Editor de Contenido",
+      "rol": "editor",
+      "telefono": "3019876543"
+    },
+    {
+      "id": "user3",
+      "username": "viewer",
+      "password": "U2FsdGVkX19dtQX6G+JCAnqftZx6dBRWgIGGEMzYcBE=",
+      "nombre": "Visualizador Invitado",
+      "rol": "viewer",
+      "telefono": "3025554433"
+    }
+  ]
+}

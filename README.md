@@ -70,7 +70,7 @@ maqueta-SPA-M3S4-main/
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tienda-productos.git
+git clone https://github.com/AnSan29/maqueta-desempe-o.git
 cd tienda-productos
 ```
 
@@ -83,7 +83,7 @@ npm install
 ### 3. Levanta el backend simulado
 
 ```bash
-npx json-server --watch database/db.json --port 3000
+json-server --watch database/db.json --port 3000
 ```
 
 ### 4. Inicia el proyecto
